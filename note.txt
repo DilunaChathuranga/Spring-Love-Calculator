@@ -1,0 +1,12 @@
+Should handle Exception
+If we call Backend service or DB Call
+
+Logic to Calculate Result
+*Take username and crushname charcter count and go through FLAME and pick the corresponding letter
+FLAME (Friend, Love, Affection,Marraige, Enemy)
+
+Letter count/5(FLAME) take the Remainder
+
+
+*** We can't use @ModelAttribute is we add that model attribute to @sessionAttribute
+*** If we not using @ModelAttribue then Binding Result should come after Model 
